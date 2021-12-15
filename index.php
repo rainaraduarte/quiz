@@ -12,8 +12,6 @@
 
 
 <h1>Quiz de História</h1> 
-
-<h4>Desenvolvido por: Rainara Paulino e Rita de Cássia</h4> 
     
     <form method="post" action="registro.php">
 
